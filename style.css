@@ -63,7 +63,9 @@ h1{
     /* box-shadow: 10px 10px 40px white; */
     margin-left: 2%;
     margin-right: 2%;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    box-shadow: 5px 5px 20px gray;
+    margin-top: 2%;
     padding: 2%;
     border-radius: 10px;
 }
