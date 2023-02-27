@@ -2,7 +2,7 @@ body{
     font-family: 'Shantell Sans', cursive;
     margin: 0;
 }
-section{
+.flexible-container{
     display: flex;
     padding-left: 2%;
     margin-bottom: 100px;
@@ -47,4 +47,27 @@ h1{
 .about-image img{
     width: 40%;
     margin-left: 20%;
+}
+.recipies{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+.recipie-item{
+    margin-left: 3%;
+    margin-right: 3%;
+   
+}
+.recipie-title{
+    width: 50%;
+    /* box-shadow: 10px 10px 40px white; */
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: whitesmoke;
+    padding: 2%;
+    border-radius: 10px;
+}
+.recipie-title img{
+    width: 100%;
+    border-radius: 10px;
 }
