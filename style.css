@@ -1,6 +1,6 @@
 body{
     font-family: 'Shantell Sans', cursive;
-    margin: 0;
+    
 }
 .flexible-container{
     display: flex;
@@ -84,4 +84,14 @@ h1{
     margin-left: 8%;
     margin-right: 8%;
     text-align: center;
+}
+footer{
+    background-color: rgb(33, 29, 29);
+    height: 200px;
+    color: gainsboro;
+    text-align: center;
+   
+}
+.footer-content{
+   padding-top: 3%;
 }
